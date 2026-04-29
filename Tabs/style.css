@@ -1,0 +1,15 @@
+.content {
+  margin-top: 0.7rem;
+}
+.content img {
+  display: none;
+  width: 100%;
+  max-width: 400px;
+}
+.tab-img.active {
+  display: block;
+}
+button.active {
+  background-color: #333;
+  color: white;
+}
